@@ -1,0 +1,42 @@
+/* Make the header big, and with a gradient background */
+#header-01 {font-size: 40px;}
+#header-02 {font-size: 40px;}
+#header-03 {font-size: 40px;}
+#header-04 {font-size: 40px;}
+
+/* Make the Navigation "flat" (not a list) */
+
+/* Main should have a background pattern that's tiled */
+main {
+background: url(https://img2.pngio.com/white-subway-tile-3x6-75-cabinets-white-tile-png-544_544.png)
+}
+.line {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  box-shadow: 10px 10px 5px #ccc;
+}
+.linee {   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  box-shadow: 10px 10px 5px #ccc;
+}
+.lines {   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  box-shadow: 10px 10px 5px #ccc;
+}
+
+.caption {background: white}
+/* NOTE: Make sure the "Welcome to my Page!" appears big enough */
+
+/*
+ * Make the figures stand out by:
+ * - Added a shadow behind them, so they "pop" off the background
+ * - Putting the figure captions below the pictures, with a white background
+ * - Center aligning the pictures and captions in the frame
+ * - Making sure the pictures aren't "too big" (use your best judgement)
+ */
